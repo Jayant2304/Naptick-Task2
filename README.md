@@ -1,6 +1,6 @@
 # Naptick AI Challenge - Task 2: Voice-to-Voice Sleep Coaching Agent
 
-This repository contains the submission for Task 2 of the Naptick AI Challenge by [Your Name] for the [Position Applied For, e.g., AI Engineer] position.
+This repository contains the submission for Task 2 of the Naptick AI Challenge by Jayant_Aggarwal for the Intern position.
 
 The project implements a voice-to-voice intelligent sleep coaching agent using open-source models, fine-tuned on custom sleep-related data to provide specialized advice. It also includes a Gradio-based user interface for interaction.
 
